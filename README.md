@@ -1,6 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # myrepo
+
+"Commit from RStudio"
